@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bienvenue on Rodrigo Valenzuela, Professeur de Guitare Diplômé</title>
+    <title>Accueil on Cours de guitare à Genève et Lausanne</title>
     <link>https://cryptodictionary.github.io/</link>
-    <description>Recent content in Bienvenue on Rodrigo Valenzuela, Professeur de Guitare Diplômé</description>
+    <description>Recent content in Accueil on Cours de guitare à Genève et Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://cryptodictionary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-FR</language>
+    
+	<atom:link href="https://cryptodictionary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Biographie</title>
+      <title>Le Professeur</title>
       <link>https://cryptodictionary.github.io/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cryptodictionary.github.io/bio/</guid>
-      <description>Rodrigo Valenzuela est né en Argentine. Il grandit au Chili où il commence à jouer de la guitare dès l&amp;rsquo;adolescence et commence très tôt à composer. Arrivé en Suisse à 19 ans, il poursuit ses études de guitare aux conservatoires de Lausanne et Fribourg. Il gagne un premier prix de composition lors du festival &amp;ldquo;XX Jazz en France&amp;rdquo; en 2000.
-Depuis il a joué et joue dans différentes formations, pratiquant des styles variés allant de la pop à la musique classique en passant par le jazz, le blues, la bossa-nova et musique du Cap-Vert.</description>
+      <description>Rodrigo Valenzuela est né en Argentine. Il grandit au Chili où il commence à jouer de la guitare dès l’adolescence avec les musiciens de rue et commence très tôt à composer. Puis s’inscrit au Conservatoire de l’Université Catholique de Valparaiso, Chili. Où où il découvre les incontournables de la guitare classique et commence à donner des concerts pour son lycée. Il prend en parallèle des cours de guitare Flamenco avec la guitariste Silvia Marambio.</description>
     </item>
     
     <item>
@@ -22,8 +25,22 @@ Depuis il a joué et joue dans différentes formations, pratiquant des styles va
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cryptodictionary.github.io/cours/</guid>
-      <description>Tarifs:
- Abonnement de 4 cours : CHF 280 (70 frs/heure) Abonnement de 8 cours : CHF 540 (67.5 frs/heure) Abonnement de 12 cours : CHF 780 (65 frs/heure)  Enseignements  Solfège et harmonie. Travail rythmique. Développement de l’oreille musicale. Repères mélodiques sur l’instrument. Technique guitaristique, picking, buté, rasgueado, pouce-bloque. Initiation à la lecture de tablatures et partitions. Etude de gammes et accords (gammes majeures, mineures naturelle, mineure harmonique, pentatoniques / triades, accords de 7ème et cadences correspondantes).</description>
+      <description>Enseignements Selon les désirs de l&#39;élève:
+ Solfège et harmonie. Travail rythmique. Développement de l’oreille musicale. Repères mélodiques sur l’instrument. Technique guitaristique, picking, buté, rasgueado, pouce-bloque. Initiation à la lecture de tablatures et partitions. Etude de gammes et accords (gammes majeures, mineures naturelle, mineure harmonique, pentatoniques / triades, accords de 7ème et cadences correspondantes).  Répertoire  Classique Jazz et improvisation Blues Bossa nova Folk &amp;amp; pop Musiques sud-américaines Musiques du monde Chansons et accompagnement     </description>
+    </item>
+    
+    <item>
+      <title>Tarifs et Conditions</title>
+      <link>https://cryptodictionary.github.io/tarifs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cryptodictionary.github.io/tarifs/</guid>
+      <description>Abonnement de 4 cours : CHF 280 (70 frs/heure)
+  Abonnement de 8 cours : CHF 540 (67.5 frs/heure)
+  Abonnement de 12 cours : CHF 780 (65 frs/heure)
+   Conditions   L’abonnement est renouvelable autant de fois que l’élève le désire.
+  Les cours sont payés en avance au plus tard le premier cours d’un nouveau forfait.
+  En cas d’annulation, merci d’avertir au moins 24 heures à l’avance ; le cas échéant le cours reste à la charge de l’élève.</description>
     </item>
     
     <item>
@@ -32,7 +49,9 @@ Depuis il a joué et joue dans différentes formations, pratiquant des styles va
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cryptodictionary.github.io/contact/</guid>
-      <description>Pour plus d’informations, ou pour convenir d’un premier cours, n’hésitez pas à me contacter au +41 78 832 33 43, ou par email à cours.d.guitare@gmail.com.</description>
+      <description>  Tel : +41 78 832 33 43
+  Email : cours.d.guitare@gmail.com.
+  Genève  Lausanne  </description>
     </item>
     
   </channel>
