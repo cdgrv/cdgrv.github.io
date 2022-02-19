@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Cours de guitare à Genève et Lausanne</title>
+    <title>Cours de guitare à Genève et Lausanne</title>
     <link>https://www.cours-de-guitare.ch/</link>
-    <description>Recent content in Accueil on Cours de guitare à Genève et Lausanne</description>
+    <description>Recent content on Cours de guitare à Genève et Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language><atom:link href="https://www.cours-de-guitare.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -47,7 +47,9 @@
       <guid>https://www.cours-de-guitare.ch/contact/</guid>
       <description>  Tel : +41 78 832 33 43
   Email : cours.d.guitare@gmail.com.
-  Genève  Lausanne  </description>
+  Genève Salle privée à Rue de Malatrex 32, 1201 :
+ Lausanne Salle privée à Rue Louis-Auguste Curtat 11, 1005 :
+ </description>
     </item>
     
   </channel>
