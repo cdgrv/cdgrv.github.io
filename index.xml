@@ -5,11 +5,7 @@
     <link>https://cryptodictionary.github.io/</link>
     <description>Recent content in Accueil on Cours de guitare à Genève et Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    
-	<atom:link href="https://cryptodictionary.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-FR</language><atom:link href="https://cryptodictionary.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Professeur</title>
       <link>https://cryptodictionary.github.io/bio/</link>
@@ -25,19 +21,19 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cryptodictionary.github.io/cours/</guid>
-      <description>Enseignements Selon les désirs de l&#39;élève:
+      <description>Enseignements Selon les désirs de l&amp;rsquo;élève:
  Solfège et harmonie. Travail rythmique. Développement de l’oreille musicale. Repères mélodiques sur l’instrument. Technique guitaristique, picking, buté, rasgueado, pouce-bloque. Initiation à la lecture de tablatures et partitions. Etude de gammes et accords (gammes majeures, mineures naturelle, mineure harmonique, pentatoniques / triades, accords de 7ème et cadences correspondantes).  Répertoire  Classique Jazz et improvisation Blues Bossa nova Folk &amp;amp; pop Musiques sud-américaines Musiques du monde Chansons et accompagnement     </description>
     </item>
     
     <item>
-      <title>Tarifs et Conditions</title>
+      <title>Tarifs</title>
       <link>https://cryptodictionary.github.io/tarifs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cryptodictionary.github.io/tarifs/</guid>
-      <description>Abonnement de 4 cours : CHF 280 (70 frs/heure)
-  Abonnement de 8 cours : CHF 540 (67.5 frs/heure)
-  Abonnement de 12 cours : CHF 780 (65 frs/heure)
+      <description>Abonnement de 4 cours : CHF 280
+  Abonnement de 8 cours : CHF 540
+  Abonnement de 12 cours : CHF 780
    Conditions   L’abonnement est renouvelable autant de fois que l’élève le désire.
   Les cours sont payés en avance au plus tard le premier cours d’un nouveau forfait.
   En cas d’annulation, merci d’avertir au moins 24 heures à l’avance ; le cas échéant le cours reste à la charge de l’élève.</description>

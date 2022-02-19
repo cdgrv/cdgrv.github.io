@@ -5,10 +5,6 @@
     <link>https://cryptodictionary.github.io/categories/</link>
     <description>Recent content in Categories on Cours de guitare à Genève et Lausanne</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    
-	<atom:link href="https://cryptodictionary.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-FR</language><atom:link href="https://cryptodictionary.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
