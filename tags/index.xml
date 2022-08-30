@@ -7,5 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Rodrigo Valenzuela</copyright><atom:link href="https://www.cours-de-guitare.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cours</title>
+      <link>https://www.cours-de-guitare.ch/tags/cours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cours-de-guitare.ch/tags/cours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geneve</title>
+      <link>https://www.cours-de-guitare.ch/tags/geneve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cours-de-guitare.ch/tags/geneve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guitare</title>
+      <link>https://www.cours-de-guitare.ch/tags/guitare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cours-de-guitare.ch/tags/guitare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lausanne</title>
+      <link>https://www.cours-de-guitare.ch/tags/lausanne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.cours-de-guitare.ch/tags/lausanne/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
