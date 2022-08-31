@@ -22,11 +22,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/bossa-nova/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.cours-de-guitare.ch/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.cours-de-guitare.ch/tags/cours/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/cours-de-guitare/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -38,7 +46,31 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/guitare-classique/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/guitare-jazz/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/harmonie/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/improvisation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/jazz/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.cours-de-guitare.ch/tags/lausanne/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.cours-de-guitare.ch/tags/solf%C3%A8ge/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
