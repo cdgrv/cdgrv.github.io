@@ -1,58 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cours de guitare à Genève et Lausanne</title>
+    <title>Cours de Guitare à Genève et Lausanne pour débutants et avancés</title>
     <link>https://www.cours-de-guitare.ch/</link>
-    <description>Recent content on Cours de guitare à Genève et Lausanne</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <copyright>Rodrigo Valenzuela</copyright><atom:link href="https://www.cours-de-guitare.ch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Cours de Guitare à Genève et Lausanne pour débutants et avancés</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Rodrigo Valenzuela</copyright>
+    <atom:link href="https://www.cours-de-guitare.ch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Professeur</title>
       <link>https://www.cours-de-guitare.ch/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/bio/</guid>
-      <description>Rodrigo Valenzuela est né en Argentine. Il grandit au Chili où il commence à jouer de la guitare dès l’adolescence avec les musiciens de rue et commence très tôt à composer.
-S&amp;rsquo;ensuivent des études au Conservatoire de l’Université Catholique de Valparaiso, Chili, où il découvre les incontournables de la guitare classique et commence à donner des concerts pour son lycée. Il prend en parallèle des cours de guitare Flamenco avec la guitariste Silvia Marambio.</description>
+      <description>Rodrigo Valenzuela est né en Argentine. Il grandit au Chili où il commence à jouer de la guitare dès l’adolescence avec les musiciens de rue et commence très tôt à composer.&#xA;S&amp;rsquo;ensuivent des études au Conservatoire de l’Université Catholique de Valparaiso, Chili, où il découvre les incontournables de la guitare classique et commence à donner des concerts pour son lycée. Il prend en parallèle des cours de guitare Flamenco avec la guitariste Silvia Marambio.</description>
     </item>
-    
     <item>
       <title>Cours</title>
       <link>https://www.cours-de-guitare.ch/cours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/cours/</guid>
-      <description> Enseignements Selon les désirs de l&amp;rsquo;élève:
-Solfège et harmonie. Travail rythmique. Développement de l’oreille musicale. Repères mélodiques sur l’instrument. Technique guitaristique, picking, buté, rasgueado, pouce-bloque. Initiation à la lecture de tablatures et partitions. Etude de gammes et accords (gammes majeures, mineures naturelle, mineure harmonique, pentatoniques / triades, accords de 7ème et cadences correspondantes). Répertoire Classique Jazz et improvisation Blues Bossa nova Folk &amp;amp; pop Musiques sud-américaines Musiques du monde Chansons et accompagnement </description>
+      <description> Enseignements Selon les désirs de l&amp;rsquo;élève:&#xA;Solfège et harmonie. Travail rythmique. Développement de l’oreille musicale. Repères mélodiques sur l’instrument. Technique guitaristique, picking, buté, rasgueado, pouce-bloque. Initiation à la lecture de tablatures et partitions. Etude de gammes et accords (gammes majeures, mineures naturelle, mineure harmonique, pentatoniques / triades, accords de 7ème et cadences correspondantes). Répertoire Classique Jazz et improvisation Blues Bossa nova Folk &amp;amp; pop Musiques sud-américaines Musiques du monde Chansons et accompagnement </description>
     </item>
-    
     <item>
       <title>Tarifs</title>
       <link>https://www.cours-de-guitare.ch/tarifs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tarifs/</guid>
-      <description>Les cours proposés durent 60 minutes et sont individuels, avec les forfaits suivants:
-4 cours CHF 320 (80/cours)
-8 cours CHF 590 (73.75/cours)
-12 cours CHF 840 (70/cours)
-Conditions Les forfaits sont renouvelables autant de fois que l&amp;rsquo;élève le souhaite.
-Les cours sont payable à l&amp;rsquo;avance, au plus tard le premier cours d’un nouveau forfait.
-En cas d’annulation, merci d’avertir au moins 24 heures à l’avance ; le cas échéant le cours reste à la charge de l’élève.</description>
+      <description>Les cours proposés durent 60 minutes et sont individuels, avec les forfaits suivants:&#xA;4 cours CHF 320 (80/cours)&#xA;8 cours CHF 590 (73.75/cours)&#xA;12 cours CHF 840 (70/cours)&#xA;Conditions Les forfaits sont renouvelables autant de fois que l&amp;rsquo;élève le souhaite.&#xA;Les cours sont payable à l&amp;rsquo;avance, au plus tard le premier cours d’un nouveau forfait.&#xA;En cas d’annulation, merci d’avertir au moins 24 heures à l’avance ; le cas échéant le cours reste à la charge de l’élève.</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>https://www.cours-de-guitare.ch/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/contact/</guid>
-      <description>Tel : +41 78 832 33 43
-Email : cours.d.guitare@gmail.com.
-Genève Salle privée à Rue des Sources 3, 1205 :
-Lausanne Salle privée à Rue Louis-Auguste Curtat 11, 1005 :</description>
+      <description>Tel : +41 78 832 33 43&#xA;Email : cours.d.guitare@gmail.com.&#xA;Genève Salle privée à Rue des Sources 3, 1205 :&#xA;Lausanne Salle privée à Rue Louis-Auguste Curtat 11, 1005 :</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,119 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cours de guitare à Genève et Lausanne</title>
+    <title>Tags on Cours de Guitare à Genève et Lausanne pour débutants et avancés</title>
     <link>https://www.cours-de-guitare.ch/tags/</link>
-    <description>Recent content in Tags on Cours de guitare à Genève et Lausanne</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-FR</language>
-    <copyright>Rodrigo Valenzuela</copyright><atom:link href="https://www.cours-de-guitare.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Tags on Cours de Guitare à Genève et Lausanne pour débutants et avancés</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Rodrigo Valenzuela</copyright>
+    <atom:link href="https://www.cours-de-guitare.ch/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bossa nova</title>
+      <title>Bossa Nova</title>
       <link>https://www.cours-de-guitare.ch/tags/bossa-nova/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/bossa-nova/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cours</title>
+      <title>Cours</title>
       <link>https://www.cours-de-guitare.ch/tags/cours/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/cours/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>cours de guitare</title>
+      <title>Cours De Guitare</title>
       <link>https://www.cours-de-guitare.ch/tags/cours-de-guitare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/cours-de-guitare/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>geneve</title>
+      <title>Geneve</title>
       <link>https://www.cours-de-guitare.ch/tags/geneve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/geneve/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guitare</title>
+      <title>Guitare</title>
       <link>https://www.cours-de-guitare.ch/tags/guitare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/guitare/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guitare classique</title>
+      <title>Guitare Classique</title>
       <link>https://www.cours-de-guitare.ch/tags/guitare-classique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/guitare-classique/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guitare jazz</title>
+      <title>Guitare Jazz</title>
       <link>https://www.cours-de-guitare.ch/tags/guitare-jazz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/guitare-jazz/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>harmonie</title>
+      <title>Harmonie</title>
       <link>https://www.cours-de-guitare.ch/tags/harmonie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/harmonie/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>improvisation</title>
+      <title>Improvisation</title>
       <link>https://www.cours-de-guitare.ch/tags/improvisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/improvisation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>jazz</title>
+      <title>Jazz</title>
       <link>https://www.cours-de-guitare.ch/tags/jazz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/jazz/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>lausanne</title>
+      <title>Lausanne</title>
       <link>https://www.cours-de-guitare.ch/tags/lausanne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/lausanne/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>solfège</title>
+      <title>Solfège</title>
       <link>https://www.cours-de-guitare.ch/tags/solf%C3%A8ge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.cours-de-guitare.ch/tags/solf%C3%A8ge/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
